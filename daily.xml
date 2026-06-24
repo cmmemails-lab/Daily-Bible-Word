@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0">
+
+<channel>
+
+<title>Calvary Miracle Ministries Daily Bible Word</title>
+
+<link>https://yourusername.github.io/daily-bible-word/</link>
+
+<description>Daily Telugu Bible Verse Image</description>
+
+
+<item>
+
+<title>యోహాను 3:16</title>
+
+<description>
+దేవుడు లోకమును ఎంతో ప్రేమించెను
+</description>
+
+<pubDate>Wed, 24 Jun 2026</pubDate>
+
+<enclosure 
+url="https://yourusername.github.io/daily-bible-word/images/john316.png"
+type="image/png" />
+
+</item>
+
+
+</channel>
+
+</rss>
